@@ -1,7 +1,4 @@
-# MDE
-Monocular Depth Estimation
-
-## 가짜 연구소 Mobile AI Crew
+# 가짜 연구소 Mobile AI Crew
 
 * test_tflite.ipynb  
   tflite 모델 성능 테스트  
